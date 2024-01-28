@@ -1,4 +1,4 @@
-- 👋 Hi, I’m Iurii Breslavetc
+- 👋 Hi, I’m Juri
 - 👀 I’m interested in mobile and web development and more
 - 🌱 I’m currently learning Golang and Swift
 - 💞️ I’m looking to collaborate on interesting project
